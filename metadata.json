@@ -1,0 +1,6 @@
+{
+  "name": "FPS Monitor",
+  "description": "High-precision real-time FPS counter overlay with customizable performance graphs, physics stress simulator, and a draggable floating widget over other apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

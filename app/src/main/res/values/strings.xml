@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FPS Monitor</string>
+    <string name="accessibility_service_description">Служба специальных возможностей для отображения высокоточного счетчика FPS поверх любых игр и приложений в углу экрана.</string>
+</resources>
